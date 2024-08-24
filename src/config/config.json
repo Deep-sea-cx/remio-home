@@ -1,12 +1,12 @@
 {
-  "name": "KASUIEの主页✨",
+  "name": "CXの主页✨",
   "favicon": "/favicon.ico",
-  "domain": "https://remio-home.vercel.app",
-  "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "domain": "https://home.deep-sea.us.kg/",
+  "keywords": "remio,rem,mio,C.C.,CXの次元,CX的个人博客,CX,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "CXの次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
     "hidden": false,
-    "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
+    "src": "https://img.picui.cn/free/2024/08/24/66c96d253aec1.png",
     "size": 150,
     "round": "full",
     "hoverAnimate": "top",
@@ -19,8 +19,8 @@
     "bodyHtml": ""
   },
   "bgConfig": {
-    "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
-    "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
+    "bg": ["https://img.picui.cn/free/2024/08/24/66c967f1aff1e.png"],
+    "mbg": ["https://img.picui.cn/free/2024/08/24/66c967f555950.png"],
     "bgStyle": "snow",
     "blur": "",
     "cardOpacity": 0.1,
@@ -57,142 +57,88 @@
     "showFrom": true,
     "style": "desc",
     "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "content": "Hello💫，这里是CXの主页",
+    "desc": "CX是自己胡乱起的，也可以叫我细雨;小学五年级，什么都捣鼓，目标是成为一个帅气的全栈开发，好耶！🥰"
   },
   "links": [
     {
-      "title": "qq",
-      "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
-      "icon": "qq"
-    },
-    {
-      "title": "telegram",
-      "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
-      "icon": "telegram"
-    },
-    {
       "title": "github",
       "color": "#000000",
-      "url": "https://github.com/kasuie",
+      "url": "https://github.com/lcx1029",
       "icon": "github"
-    },
-    {
-      "title": "twitter",
-      "color": "#1da1f2",
-      "url": "https://twitter.com/kasuie3",
-      "icon": "twitter"
     },
     {
       "title": "email",
       "color": "#fd3232",
-      "url": "mailto:i@kasuie.cc",
+      "url": "mailto:lcx1029lcx1029@dingtalk.com",
       "icon": "email"
-    },
-    {
-      "title": "steam",
-      "color": "#000000",
-      "url": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
-      "icon": "steam"
     },
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
+      "url": "https://space.bilibili.com/662154608",
       "icon": "bilibili"
     }
   ],
   "sites": [
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec0443db.jpg",
+      "title": "CXの博客",
+      "url": "https://blog.deep-sea.us.kg/",
       "desc": "博客主页"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "Mio 导航",
-      "url": "https://nav.kasuie.cc",
-      "desc": "Mio 网站导航"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec0646be.png",
+      "title": "CX导航",
+      "url": "#",
+      "desc": "CX 网站导航"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
-      "url": "https://ai.kasuie.cc",
-      "desc": "ChatGPT"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec042d91.jpg",
+      "title": "CXのAI",
+      "url": "https://ai.deep-sea.us.kg",
+      "desc": "NewBing"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "KASUIEの库",
-      "url": "https://dist.kasuie.cc",
-      "desc": "网盘挂载程序"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec12fc60.png",
+      "title": "CXの音乐",
+      "url": "https://www.deep-sea.us.kg/music/indexm.html",
+      "desc": "听首歌"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
-      "title": "KASUIEの图床",
-      "url": "https://upload.kasuie.cc",
-      "desc": "图床服务"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec1ba482.png",
+      "title": "CXのOS",
+      "url": "https://bilios.deep-sea.us.kg/",
+      "desc": "网页版的哔哩哔哩OS"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "监控服务",
-      "url": "https://status.kasuie.cc/status",
-      "desc": "服务程序监控"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec6d2b0e.jpg",
+      "title": "抖音",
+      "url": "https://douyin.deep-sea.us.kg/",
+      "desc": "自制的抖音，来尝尝"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEのDocs",
-      "url": "https://docs.kasuie.cc",
-      "desc": "文档服务"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec6d4512.jpg",
+      "title": "CXのhome",
+      "url": "https://www.deep-sea.us.kg/",
+      "desc": "起始页"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec7de25c.jpg",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "喜好生成表",
-      "url": "https://like.kasuie.cc",
-      "desc": "个人喜好生成表"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec942795.jpg",
+      "title": "chatgpt",
+      "url": "https://gpt.deep-sea.us.kg/",
+      "desc": "没有key"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96eca38d0c.jpg",
+      "title": "CXのFlux",
+      "url": "https://www.deep-sea.us.kg/flux",
+      "desc": "被玩疯的Flux"
     }
   ],
   "sitesConfig": {
@@ -203,7 +149,7 @@
     "hoverFlip": true,
     "direction": "row",
     "modal": true,
-    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
+    "modalTips": "这里大多都是最近弄的，算是beta版。",
     "modalTitle": ""
   },
   "socialConfig": {
@@ -215,47 +161,47 @@
     "data": [
       {
         "title": "JavaScript/TypeScript",
-        "value": 70,
+        "value": 5,
         "icon": "qq"
       },
       {
         "title": "CSS/CSS3",
-        "value": 70,
+        "value": 5,
         "icon": "qq"
       },
       {
-        "title": "React",
-        "value": 40,
+        "title": "python",
+        "value": 30,
         "icon": "qq"
       },
       {
-        "title": "Vue",
-        "value": 60,
+        "title": "html",
+        "value": 20,
         "icon": "qq"
       },
       {
-        "title": "Next.js",
-        "value": 50
-      },
-      {
-        "title": "Nuxt.js",
-        "value": 20
-      },
-      {
-        "title": "Three.js",
-        "value": 10
-      },
-      {
-        "title": "Node.js",
+        "title": "docker",
         "value": 30
       },
       {
-        "title": "Electron",
+        "title": "scratch",
+        "value": 90
+      },
+      {
+        "title": "NW.js",
         "value": 5
       },
       {
-        "title": "Spring Boot",
-        "value": 40
+        "title": "Node.js",
+        "value": 5
+      },
+      {
+        "title": "Electron",
+        "value": 1
+      },
+      {
+        "title": "go",
+        "value": 4
       },
       {
         "title": "Linux",
@@ -263,11 +209,7 @@
       },
       {
         "title": "Mysql",
-        "value": 55
-      },
-      {
-        "title": "Docker",
-        "value": 45
+        "value": 20
       }
     ],
     "title": "技能加点",
@@ -276,8 +218,8 @@
     "column": 4
   },
   "footer": {
-    "text": "© 2020 - 2024 By KASUIE",
-    "url": "https://kasuie.cc",
+    "text": "© 2020 - 2024 By CX",
+    "url": "https://home.deep-sea.us.kg",
     "ICP": "ICP备xxxxxxxx号",
     "direction": "col-reverse",
     "isExternal": true

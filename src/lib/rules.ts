@@ -3,8 +3,8 @@ import { AppConfig } from "@/config/config";
 /*
  * @Author: kasuie
  * @Date: 2024-06-13 10:00:42
- * @LastEditors: kasuie
- * @LastEditTime: 2024-08-18 12:31:43
+ * @LastEditors: l cx lcx1029lcx1029@outlook.com
+ * @LastEditTime: 2024-08-24 18:21:56
  * @Description:
  */
 export interface ItemsItem {
@@ -691,81 +691,86 @@ export const defaultAppConfig: AppConfig = {
     content: "Hello💫",
     desc: "这里是我の主页",
   },
-  links: [
+  "links": [
     {
-      title: "qq",
-      color: "#dfba00",
-      url: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
-      icon: "qq",
+      "title": "github",
+      "color": "#000000",
+      "url": "https://github.com/lcx1029",
+      "icon": "github"
     },
     {
-      title: "github",
-      color: "#000000",
-      url: "https://github.com/kasuie",
-      icon: "github",
+      "title": "email",
+      "color": "#fd3232",
+      "url": "mailto:lcx1029lcx1029@dingtalk.com",
+      "icon": "email"
     },
     {
-      title: "email",
-      color: "#fd3232",
-      url: "mailto:i@kasuie.cc",
-      icon: "email",
-    },
-    {
-      title: "bilibili",
-      color: "#0088cc",
-      url: "https://space.bilibili.com/85447052",
-      icon: "bilibili",
-    },
+      "title": "bilibili",
+      "color": "#0088cc",
+      "url": "https://space.bilibili.com/662154608",
+      "icon": "bilibili"
+    }
   ],
-  sites: [
+  "sites": [
     {
-      icon: "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      title: "KASUIEの次元",
-      url: "https://kasuie.cc",
-      desc: "博客主页",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec0443db.jpg",
+      "title": "CXの博客",
+      "url": "https://blog.deep-sea.us.kg/",
+      "desc": "博客主页"
     },
     {
-      icon: "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      title: "Mio 导航",
-      url: "https://nav.kasuie.cc",
-      desc: "Mio 网站导航",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec0646be.png",
+      "title": "CX导航",
+      "url": "#",
+      "desc": "CX 网站导航"
     },
     {
-      icon: "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      title: "KASUIEのAI",
-      url: "https://ai.kasuie.cc",
-      desc: "ChatGPT",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec042d91.jpg",
+      "title": "CXのAI",
+      "url": "https://ai.deep-sea.us.kg",
+      "desc": "NewBing"
     },
     {
-      icon: "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      title: "KASUIEの库",
-      url: "https://dist.kasuie.cc",
-      desc: "网盘挂载程序",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec12fc60.png",
+      "title": "CXの音乐",
+      "url": "https://www.deep-sea.us.kg/music/indexm.html",
+      "desc": "听首歌"
     },
     {
-      icon: "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
-      title: "KASUIEの图床",
-      url: "https://upload.kasuie.cc",
-      desc: "图床服务",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec1ba482.png",
+      "title": "CXのOS",
+      "url": "https://bilios.deep-sea.us.kg/",
+      "desc": "网页版的哔哩哔哩OS"
     },
     {
-      icon: "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      title: "监控服务",
-      url: "https://status.kasuie.cc/status",
-      desc: "服务程序监控",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec6d2b0e.jpg",
+      "title": "抖音",
+      "url": "https://douyin.deep-sea.us.kg/",
+      "desc": "自制的抖音，来尝尝"
     },
     {
-      icon: "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      title: "KASUIEのDocs",
-      url: "https://docs.kasuie.cc",
-      desc: "文档服务",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec6d4512.jpg",
+      "title": "CXのhome",
+      "url": "https://www.deep-sea.us.kg/",
+      "desc": "起始页"
     },
     {
-      icon: "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      title: "喜好生成表",
-      url: "https://like.kasuie.cc",
-      desc: "个人喜好生成表",
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec7de25c.jpg",
+      "title": "杂七杂八",
+      "desc": "阿巴阿巴..."
     },
+    {
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec942795.jpg",
+      "title": "chatgpt",
+      "url": "https://gpt.deep-sea.us.kg/",
+      "desc": "没有key"
+    },
+    {
+      "icon": "https://img.picui.cn/free/2024/08/24/66c96eca38d0c.jpg",
+      "title": "CXのFlux",
+      "url": "https://www.deep-sea.us.kg/flux",
+      "desc": "被玩疯的Flux"
+    }
   ],
   sitesConfig: {
     hidden: false,
@@ -790,8 +795,8 @@ export const defaultAppConfig: AppConfig = {
     column: 2,
   },
   footer: {
-    text: "© 2020 - 2024 By KASUIE",
-    url: "https://kasuie.cc",
+    text: "© 2020 - 2024 By CX",
+    url: "https://home.deep-sea.us.kg",
     ICP: "ICP备xxxxxxxx号",
     direction: "col-reverse",
     isExternal: true,
