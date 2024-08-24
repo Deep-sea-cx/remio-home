@@ -4,7 +4,7 @@ import { AppConfig } from "@/config/config";
  * @Author: kasuie
  * @Date: 2024-06-13 10:00:42
  * @LastEditors: l cx lcx1029lcx1029@outlook.com
- * @LastEditTime: 2024-08-24 18:24:06
+ * @LastEditTime: 2024-08-24 20:29:50
  * @Description:
  */
 export interface ItemsItem {
@@ -721,7 +721,7 @@ export const defaultAppConfig: AppConfig = {
     {
       "icon": "https://img.picui.cn/free/2024/08/24/66c96ec0646be.png",
       "title": "CX导航",
-      "url": "#",
+      "url": "https://nav.deep-sea.us.kg/",
       "desc": "CX 网站导航"
     },
     {
