@@ -4,7 +4,7 @@ import { AppConfig } from "@/config/config";
  * @Author: kasuie
  * @Date: 2024-06-13 10:00:42
  * @LastEditors: l cx lcx1029lcx1029@outlook.com
- * @LastEditTime: 2024-08-24 18:21:56
+ * @LastEditTime: 2024-08-24 18:24:06
  * @Description:
  */
 export interface ItemsItem {
@@ -768,7 +768,7 @@ export const defaultAppConfig: AppConfig = {
     {
       "icon": "https://img.picui.cn/free/2024/08/24/66c96eca38d0c.jpg",
       "title": "CXのFlux",
-      "url": "https://www.deep-sea.us.kg/flux",
+      "url": "https://www.deep-sea.us.kg/flux/indexf.html",
       "desc": "被玩疯的Flux"
     }
   ],
