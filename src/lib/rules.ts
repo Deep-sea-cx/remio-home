@@ -4,7 +4,7 @@ import { AppConfig } from "@/config/config";
  * @Author: kasuie
  * @Date: 2024-06-13 10:00:42
  * @LastEditors: l cx lcx1029lcx1029@outlook.com
- * @LastEditTime: 2024-08-24 20:29:50
+ * @LastEditTime: 2024-08-24 21:20:20
  * @Description:
  */
 export interface ItemsItem {
@@ -241,7 +241,7 @@ const bgRules: RuleItem[] = [
         return val.split(";");
       }
     },
-    default: "https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp",
+    default: "https://imgse.com/i/pAF6bXn",
     desc: "多张背景请以英文分号';'分隔",
   },
   {
@@ -256,7 +256,7 @@ const bgRules: RuleItem[] = [
         return val.split(";");
       }
     },
-    default: "https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp",
+    default: "https://imgse.com/i/pAF6H6s",
     desc: "多张背景请以英文分号';'分隔",
   },
   {
@@ -713,60 +713,60 @@ export const defaultAppConfig: AppConfig = {
   ],
   "sites": [
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec0443db.jpg",
+      "icon": "https://imgse.com/i/pAFcehD",
       "title": "CXの博客",
       "url": "https://blog.deep-sea.us.kg/",
       "desc": "博客主页"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec0646be.png",
+      "icon": "https://imgse.com/i/pAFcFn1",
       "title": "CX导航",
       "url": "https://nav.deep-sea.us.kg/",
       "desc": "CX 网站导航"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec042d91.jpg",
+      "icon": "https://imgse.com/i/pAFcZtO",
       "title": "CXのAI",
       "url": "https://ai.deep-sea.us.kg",
       "desc": "NewBing"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec12fc60.png",
+      "icon": "https://imgse.com/i/pAFcVAK",
       "title": "CXの音乐",
       "url": "https://www.deep-sea.us.kg/music/indexm.html",
       "desc": "听首歌"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec1ba482.png",
+      "icon": "https://imgse.com/i/pAFcA76",
       "title": "CXのOS",
       "url": "https://bilios.deep-sea.us.kg/",
       "desc": "网页版的哔哩哔哩OS"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec6d2b0e.jpg",
+      "icon": "https://imgse.com/i/pAFcn9e",
       "title": "抖音",
       "url": "https://douyin.deep-sea.us.kg/",
       "desc": "自制的抖音，来尝尝"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec6d4512.jpg",
+      "icon": "https://pic1.58cdn.com.cn/nowater/webim/big/n_v2de6699afd88d4037a8c2a16422621896.jpg",
       "title": "CXのhome",
       "url": "https://www.deep-sea.us.kg/",
       "desc": "起始页"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec7de25c.jpg",
+      "icon": "https://pic7.58cdn.com.cn/nowater/webim/big/n_v2b091034bbf9e41578a9f8453e03189c4.jpg",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96ec942795.jpg",
+      "icon": "https://pic6.58cdn.com.cn/nowater/webim/big/n_v28339020643b047aaa950dac83a759285.jpg",
       "title": "chatgpt",
       "url": "https://gpt.deep-sea.us.kg/",
       "desc": "没有key"
     },
     {
-      "icon": "https://img.picui.cn/free/2024/08/24/66c96eca38d0c.jpg",
+      "icon": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v23e0998f14d254d8f828964979f2f21de.jpg",
       "title": "CXのFlux",
       "url": "https://www.deep-sea.us.kg/flux/indexf.html",
       "desc": "被玩疯的Flux"
