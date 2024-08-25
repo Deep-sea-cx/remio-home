@@ -4,7 +4,7 @@ import { AppConfig } from "@/config/config";
  * @Author: kasuie
  * @Date: 2024-06-13 10:00:42
  * @LastEditors: l cx lcx1029lcx1029@outlook.com
- * @LastEditTime: 2024-08-25 19:06:12
+ * @LastEditTime: 2024-08-25 20:16:08
  * @Description:
  */
 export interface ItemsItem {
@@ -241,7 +241,7 @@ const bgRules: RuleItem[] = [
         return val.split(";");
       }
     },
-    default: "https://imgse.com/i/pAF6bXn",
+    default: "http://i0.hdslb.com/bfs/new_dyn/74c51db9518898d6aeca2271046472e8662154608.jpg",
     desc: "多张背景请以英文分号';'分隔",
   },
   {
@@ -256,7 +256,7 @@ const bgRules: RuleItem[] = [
         return val.split(";");
       }
     },
-    default: "https://imgse.com/i/pAF6H6s",
+    default: "http://i0.hdslb.com/bfs/new_dyn/1270dafe266bae26cb7d78e3071494f1662154608.jpg",
     desc: "多张背景请以英文分号';'分隔",
   },
   {
@@ -643,18 +643,18 @@ export const AppRules = [
 export const defaultAppConfig: AppConfig = {
   name: "我的主页✨",
   favicon: "/favicon.ico",
-  keywords: "remio,rem,mio,C.C.,KASUIE,个人主页,主页",
-  description: "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  keywords: "remio,rem,mio,C.C.,CX,个人主页,主页",
+  description: "CXの次元，兴趣至上，内容随缘，个人主页",
   avatarConfig: {
-    src: "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
+    src: "https://i0.hdslb.com/bfs/new_dyn/d55ac776fc1fdd458691c81c967cb6b0662154608.jpg",
     size: 150,
     round: "full",
     hoverAnimate: "top",
     style: "glint",
   },
   bgConfig: {
-    bg: "https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp",
-    mbg: "https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp",
+    bg: "http://i0.hdslb.com/bfs/new_dyn/74c51db9518898d6aeca2271046472e8662154608.jpg",
+    mbg: "http://i0.hdslb.com/bfs/new_dyn/1270dafe266bae26cb7d78e3071494f1662154608.jpg",
     bgStyle: "snow",
     blur: "sm",
     cardOpacity: 0.1,
@@ -713,60 +713,60 @@ export const defaultAppConfig: AppConfig = {
   ],
   "sites": [
     {
-      "icon": "./picture/icon (1).png",
+      "icon": "https://i0.hdslb.com/bfs/new_dyn/4ecf9df2ba5971f7db8b23cf1c53865d662154608.jpg",
       "title": "CXの博客",
       "url": "https://blog.deep-sea.us.kg/",
       "desc": "博客主页"
     },
     {
-      "icon": "./picture/icon (2).png",
+      "icon": "https://i0.hdslb.com/bfs/new_dyn/f06c37f2da236659a743ed46662836ec662154608.jpg",
       "title": "CX导航",
       "url": "https://nav.deep-sea.us.kg/",
       "desc": "CX 网站导航"
     },
     {
-      "icon": "./picture/icon (3).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/c1b9221f2a7708fdafc9f03d13d1ce91662154608.jpg",
       "title": "CXのAI",
       "url": "https://ai.deep-sea.us.kg",
       "desc": "NewBing"
     },
     {
-      "icon": "./picture/icon (4).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/d7bf3946c72b22382294037d564abfa1662154608.jpg",
       "title": "CXの音乐",
       "url": "https://www.deep-sea.us.kg/music/indexm.html",
       "desc": "听首歌"
     },
     {
-      "icon": "./picture/icon (5).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/2976b62e9b0ccc3e3203e48713380fed662154608.jpg",
       "title": "CXのOS",
       "url": "https://bilios.deep-sea.us.kg/",
       "desc": "网页版的哔哩哔哩OS"
     },
     {
-      "icon": "./picture/icon (6).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/d63909e3f86dc0f118611a0d273ba8de662154608.jpg",
       "title": "抖音",
       "url": "https://douyin.deep-sea.us.kg/",
       "desc": "自制的抖音，来尝尝"
     },
     {
-      "icon": "./picture/icon (7).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/221d1fd10cf43ba9e03c5b3d5b954d0d662154608.jpg",
       "title": "CXのhome",
       "url": "https://www.deep-sea.us.kg/",
       "desc": "起始页"
     },
     {
-      "icon": "./picture/icon (8).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/183efc66be320935a8dea28a0e0ebd83662154608.jpg",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
     },
     {
-      "icon": "./picture/icon (9).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/5989af97c18f632c31a52b8f788e1225662154608.jpg",
       "title": "chatgpt",
       "url": "https://gpt.deep-sea.us.kg/",
       "desc": "没有key"
     },
     {
-      "icon": "./picture/icon (10).png",
+      "icon": "http://i0.hdslb.com/bfs/new_dyn/019590c69e6dbca442bb0bdd98b6839c662154608.jpg",
       "title": "CXのFlux",
       "url": "https://www.deep-sea.us.kg/flux/indexf.html",
       "desc": "被玩疯的Flux"
