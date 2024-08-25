@@ -4,7 +4,7 @@ import { AppConfig } from "@/config/config";
  * @Author: kasuie
  * @Date: 2024-06-13 10:00:42
  * @LastEditors: l cx lcx1029lcx1029@outlook.com
- * @LastEditTime: 2024-08-24 21:20:20
+ * @LastEditTime: 2024-08-25 19:06:12
  * @Description:
  */
 export interface ItemsItem {
@@ -713,60 +713,60 @@ export const defaultAppConfig: AppConfig = {
   ],
   "sites": [
     {
-      "icon": "https://imgse.com/i/pAFcehD",
+      "icon": "./picture/icon (1).png",
       "title": "CXの博客",
       "url": "https://blog.deep-sea.us.kg/",
       "desc": "博客主页"
     },
     {
-      "icon": "https://imgse.com/i/pAFcFn1",
+      "icon": "./picture/icon (2).png",
       "title": "CX导航",
       "url": "https://nav.deep-sea.us.kg/",
       "desc": "CX 网站导航"
     },
     {
-      "icon": "https://imgse.com/i/pAFcZtO",
+      "icon": "./picture/icon (3).png",
       "title": "CXのAI",
       "url": "https://ai.deep-sea.us.kg",
       "desc": "NewBing"
     },
     {
-      "icon": "https://imgse.com/i/pAFcVAK",
+      "icon": "./picture/icon (4).png",
       "title": "CXの音乐",
       "url": "https://www.deep-sea.us.kg/music/indexm.html",
       "desc": "听首歌"
     },
     {
-      "icon": "https://imgse.com/i/pAFcA76",
+      "icon": "./picture/icon (5).png",
       "title": "CXのOS",
       "url": "https://bilios.deep-sea.us.kg/",
       "desc": "网页版的哔哩哔哩OS"
     },
     {
-      "icon": "https://imgse.com/i/pAFcn9e",
+      "icon": "./picture/icon (6).png",
       "title": "抖音",
       "url": "https://douyin.deep-sea.us.kg/",
       "desc": "自制的抖音，来尝尝"
     },
     {
-      "icon": "https://pic1.58cdn.com.cn/nowater/webim/big/n_v2de6699afd88d4037a8c2a16422621896.jpg",
+      "icon": "./picture/icon (7).png",
       "title": "CXのhome",
       "url": "https://www.deep-sea.us.kg/",
       "desc": "起始页"
     },
     {
-      "icon": "https://pic7.58cdn.com.cn/nowater/webim/big/n_v2b091034bbf9e41578a9f8453e03189c4.jpg",
+      "icon": "./picture/icon (8).png",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
     },
     {
-      "icon": "https://pic6.58cdn.com.cn/nowater/webim/big/n_v28339020643b047aaa950dac83a759285.jpg",
+      "icon": "./picture/icon (9).png",
       "title": "chatgpt",
       "url": "https://gpt.deep-sea.us.kg/",
       "desc": "没有key"
     },
     {
-      "icon": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v23e0998f14d254d8f828964979f2f21de.jpg",
+      "icon": "./picture/icon (10).png",
       "title": "CXのFlux",
       "url": "https://www.deep-sea.us.kg/flux/indexf.html",
       "desc": "被玩疯的Flux"
